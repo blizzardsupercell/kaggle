@@ -20,4 +20,3 @@ def training(X, Y, alpha):
     print 'Congratulations, training complete! Took %fs!' % (time.time() - startTime)
     return theta
 
-def testing(X, theta):
